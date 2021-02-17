@@ -1,0 +1,4 @@
+# Estamos felices
+Este archivo se creó en _Visual Stdio Code_ pero no se subió el contenido de edición del mismo, simplemente pude crearlo allá y lo estoy editando aquí para subirlo con __GitBash__. Ni modo, no todo se puede, pero heeeey, ya tengo un nuevo conocimiento.
+
+Ahora escribiré algo random: Sea $(\Omega, F, \mathbb{P})$ un espacio de probabilidad. Sea $X$ una función medible sobre este espacio. Definimos la esperanza de $X$ como la integral de la función $X$ con respecto a la medida $\mathbb{P}$ sobre $\Omega$, es decir:$$\mathbb{E}(X) := \int_{\Omega} X d \mathbb{P}$$ Recordemos que dicha integral se constituye como supremo e ínfomo de sumas inferiores  superiores respectivamente de integrales de funciones simples que aproximen por abajo o arriba a la función $X$.  La función $X$ es conocida como variable aleatoria.
